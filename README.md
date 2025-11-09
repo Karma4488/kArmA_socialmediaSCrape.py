@@ -3,7 +3,7 @@ pip install cloudscraper requests beautifulsoup4 aiohttp loguru undetected-playw
 
 # Only if you want full browser mode
 playwright install chromium
-
+----------WEARELEGION-------------
 pip install playwright undetected-playwright
 
 run it in a .env
